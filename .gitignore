@@ -25,11 +25,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Old files
-index_old.html
-script.js
-styles.css
-
 # Windows
 Thumbs.db
 ehthumbs.db

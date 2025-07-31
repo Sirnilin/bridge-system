@@ -26,13 +26,16 @@ git push origin main
 bridge-system/
 ├── _config.yml          # Конфигурация Jekyll
 ├── Gemfile              # Зависимости Ruby
+├── .gitignore           # Игнорируемые файлы
+├── README.md            # Описание проекта
+├── DEPLOY.md            # Инструкция по деплою
+├── READY.md             # Краткая инструкция готовности
 ├── index.md             # Главная страница
 ├── openings.md          # Страница открытий
 ├── responses.md         # Страница ответов
 ├── conventions.md       # Страница конвенций
 ├── competitive.md       # Страница конкурентной торговли
-├── system.md           # Исходный файл системы
-└── README.md           # Этот файл
+└── system.md            # Исходный файл системы
 ```
 
 ## Редактирование контента
