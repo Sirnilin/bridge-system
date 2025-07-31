@@ -1,0 +1,45 @@
+title: "Хайповая Система торговли в бридже"
+description: "Полная система торговли в спортивном бридже"
+url: "https://sirnilin.github.io"
+baseurl: "/bridge-system"
+
+# Jekyll настройки
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Настройки темы
+minima:
+  skin: dark
+  social_links:
+    github: sirnilin
+
+# Настройки навигации
+header_pages:
+  - index.md
+  - openings.md
+  - responses.md
+  - conventions.md
+  - competitive.md
+
+# Исключения
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Markdown настройки
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# SEO
+lang: ru-RU
