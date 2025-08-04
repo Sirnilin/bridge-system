@@ -1,0 +1,15 @@
+main:
+  - title: "Главная"
+    url: /
+  - title: "Основы"
+    children:
+      - title: "Открытия"
+        url: /docs/basics/openings.html
+      - title: "Ответы"
+        url: /docs/basics/responses.html
+      - title: "Система"
+        url: /docs/basics/system.html
+  - title: "Конвенции"
+    url: /docs/conventions/conventions.html
+  - title: "Конкурентная"
+    url: /docs/competitive/competitive.html

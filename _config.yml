@@ -20,10 +20,10 @@ minima:
 # Настройки навигации
 header_pages:
   - index.md
-  - openings.md
-  - responses.md
-  - conventions.md
-  - competitive.md
+  - docs/basics/openings.md
+  - docs/basics/responses.md
+  - docs/conventions/conventions.md
+  - docs/competitive/competitive.md
 
 # Исключения
 exclude:
