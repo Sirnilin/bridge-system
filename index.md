@@ -9,10 +9,13 @@ permalink: /
 
 ##  Содержание системы
 
-### [Открытия](openings.html)
+### Основы системы
+- [Открытия](docs/basics/openings.html)
+- [Ответы на открытия](docs/basics/responses.html)
+- [Общая система](docs/basics/system.html)
 
-### [Ответы на открытия](responses.html)
+### Продвинутые техники
+- [Конвенции](docs/conventions/conventions.html)
 
-### [Конвенции](conventions.html)
-
-### [Конкурентная торговля](competitive.html)
+### Конкурентная торговля
+- [Защитные заявки](docs/competitive/competitive.html)
