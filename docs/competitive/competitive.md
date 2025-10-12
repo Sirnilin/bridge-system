@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Конкурентная торговля"
+title: Конкурентная торговля
+has_children: true
+nav_order: 3
 ---
 
 # Конкурентная торговля

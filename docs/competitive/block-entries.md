@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Входы блоками
-parent: Competitive Bidding
+parent: Конкурентная торговля
 nav_order: 1
 ---
 
